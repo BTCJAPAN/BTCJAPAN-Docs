@@ -10,6 +10,11 @@
 * [💱 トークンエコノミー](nihongo/tkunekonom.md)
 * [🇯🇵 チーム紹介](nihongo/chmu.md)
 
+## 日本語
+
+* [💱 トークン経済学](ri-ben-yu/tkun.md)
+* [🇯🇵 チーム紹介](ri-ben-yu/chmu.md)
+
 ## 简体中文 <a href="#chinese" id="chinese"></a>
 
 * [🌸 欢迎来到 BTCJAPAN](chinese/huan-ying-lai-dao-btcjapan/README.md)
