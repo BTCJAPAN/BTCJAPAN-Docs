@@ -1,24 +1,24 @@
 # Table of contents
 
-## 日本語
+## 日本語 <a href="#nihongo" id="nihongo"></a>
 
 * [🌸 BTCJAPANへようこそ](README.md)
-  * [BTCJAPAN紹介](ri-ben-yu/btcjapanheyoukoso/btcjapan-shao-jie.md)
-  * [ビジョン：日本から世界へ](ri-ben-yu/btcjapanheyoukoso/bijonkarahe.md)
-  * [BounceBitの上に](ri-ben-yu/btcjapanheyoukoso/bouncebitnoni.md)
-* [🚣‍♀️ ロードマップ](ri-ben-yu/rdomappu.md)
-* [💱 トークンエコノミー](ri-ben-yu/tkunekonom.md)
-* [🇯🇵 チーム紹介](ri-ben-yu/chmu.md)
+  * [BTCJAPAN紹介](nihongo/btcjapanheyoukoso/btcjapan-shao-jie.md)
+  * [ビジョン：日本から世界へ](nihongo/btcjapanheyoukoso/bijonkarahe.md)
+  * [BounceBitの上に](nihongo/btcjapanheyoukoso/bouncebitnoni.md)
+* [🚣‍♀️ ロードマップ](nihongo/rdomappu.md)
+* [💱 トークンエコノミー](nihongo/tkunekonom.md)
+* [🇯🇵 チーム紹介](nihongo/chmu.md)
 
-## 简体中文
+## 简体中文 <a href="#chinese" id="chinese"></a>
 
-* [🌸 欢迎来到 BTCJAPAN](jian-ti-zhong-wen/huan-ying-lai-dao-btcjapan/README.md)
-  * [BTCJAPAN 的概要](jian-ti-zhong-wen/huan-ying-lai-dao-btcjapan/btcjapan-de-gai-yao.md)
-  * [愿景：从日本走向世界](jian-ti-zhong-wen/huan-ying-lai-dao-btcjapan/yuan-jing-cong-ri-ben-zou-xiang-shi-jie.md)
-  * [基于 BounceBit 构建](jian-ti-zhong-wen/huan-ying-lai-dao-btcjapan/ji-yu-bouncebit-gou-jian.md)
-* [🚣‍♀️ 路线图](jian-ti-zhong-wen/lu-xian-tu.md)
-* [💱 代币经济学](jian-ti-zhong-wen/dai-bi-jing-ji-xue.md)
-* [🇯🇵 团队介绍](jian-ti-zhong-wen/tuan-dui-jie-shao.md)
+* [🌸 欢迎来到 BTCJAPAN](chinese/huan-ying-lai-dao-btcjapan/README.md)
+  * [BTCJAPAN 的概要](chinese/huan-ying-lai-dao-btcjapan/btcjapan-de-gai-yao.md)
+  * [愿景：从日本走向世界](chinese/huan-ying-lai-dao-btcjapan/yuan-jing-cong-ri-ben-zou-xiang-shi-jie.md)
+  * [基于 BounceBit 构建](chinese/huan-ying-lai-dao-btcjapan/ji-yu-bouncebit-gou-jian.md)
+* [🚣‍♀️ 路线图](chinese/lu-xian-tu.md)
+* [💱 代币经济学](chinese/dai-bi-jing-ji-xue.md)
+* [🇯🇵 团队介绍](chinese/tuan-dui-jie-shao.md)
 
 ## ENGLISH
 
